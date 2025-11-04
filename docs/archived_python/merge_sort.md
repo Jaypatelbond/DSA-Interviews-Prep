@@ -1,5 +1,10 @@
-#[3,4,1,5], 0, 3
+# Archived: merge_sort.py
 
+This file is an archived Python implementation moved from the codebase when the repository switched to Kotlin-only.
+
+Original content (legacy):
+
+```python
 def merge_sort(arr, start, end):
     if start >= end:
         return arr
@@ -41,3 +46,6 @@ def merge(arr, start, mid, end):
 
 
 print(merge_sort([8, 5, 2, 9, 5, 6, 3], 0, 6))
+```
+
+If you need this code, copy it from this file. Future work: fully remove archived files from repository history if desired.

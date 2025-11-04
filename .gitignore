@@ -1,3 +1,11 @@
+.idea/
+*.iml
+/.gradle/
+/build/
+/.DS_Store
+out/
+*.class
+*.jar
 ### IntelliJ IDEA ###
 out/
 !**/src/main/**/out/
